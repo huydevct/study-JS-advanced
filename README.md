@@ -36,7 +36,7 @@ Array-like objects & Arguments & Default parameters
 & .call & .apply & Enhanced object literals & class
 & class inheritance & method overriding & super & static
 & ...rest & ...spread & Value types vs Reference types 
-& spread part2 & Closure & Higer order functions: 
+& spread part2 & Closure & Higher order functions & Destructuring: 
 
     - On repl.it: https://repl.it/@HHC1/study-JS-advanced#index.js
 
